@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1500950222,
+	"version": 1501198113,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,7 @@
 		"images/flying-sheet0.png",
 		"images/cloud-sheet0.png",
 		"images/cloudspawner-sheet0.png",
+		"images/bullet-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
